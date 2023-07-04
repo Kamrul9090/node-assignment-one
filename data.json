@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "gender": "Male",
+        "name": "John Doe",
+        "contact": "1234567890",
+        "address": "123 Main St, City",
+        "photoUrl": "https://i.ibb.co/j6QQqZZ/Male23.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "Female",
+        "name": "Jane Smith",
+        "contact": "0987654321",
+        "address": "456 Elm St, Town",
+        "photoUrl": "https://i.ibb.co/pjBxmDV/Female01.jpg"
+    },
+    {
+        "id": 3,
+        "gender": "Male",
+        "name": "Michael Johnson",
+        "contact": "5551234567",
+        "address": "789 Oak St, Village",
+        "photoUrl": "https://i.ibb.co/TH4DyTD/Male14.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "Female",
+        "name": "Emily Davis",
+        "contact": "9876543210",
+        "address": "321 Pine St, Town",
+        "photoUrl": "https://i.ibb.co/DM0Xtpd/Female03.jpg"
+    },
+    {
+        "id": 5,
+        "gender": "Male",
+        "name": "Christopher Wilson",
+        "contact": "7775551234",
+        "address": "555 Maple St, City",
+        "photoUrl": "https://i.ibb.co/wzT1Fj3/Male08.jpg"
+    },
+    {
+        "id": 6,
+        "gender": "Female",
+        "name": "Sarah Thompson",
+        "contact": "2223334444",
+        "address": "888 Birch St, Village",
+        "photoUrl": "https://i.ibb.co/hMKJtTJ/Female05.jpg"
+    },
+    {
+        "id": 7,
+        "gender": "Male",
+        "name": "David Anderson",
+        "contact": "9990001111",
+        "address": "444 Oak St, City",
+        "photoUrl": "https://i.ibb.co/gJWrCZm/Male09.jpg"
+    },
+    {
+        "id": 8,
+        "gender": "Female",
+        "name": "Olivia Brown",
+        "contact": "6667778888",
+        "address": "222 Elm St, Town",
+        "photoUrl": "https://i.ibb.co/pd4wKcV/Female07.jpg"
+    },
+    {
+        "id": 9,
+        "gender": "Male",
+        "name": "Daniel Martinez",
+        "contact": "1112223333",
+        "address": "777 Pine St, Village",
+        "photoUrl": "https://i.ibb.co/Wv2ggGs/Male07.jpg"
+    },
+    {
+        "id": 10,
+        "gender": "Female",
+        "name": "Sophia Johnson",
+        "contact": "4445556666",
+        "address": "999 Maple St, City",
+        "photoUrl": "https://i.ibb.co/WHLQ9F7/Female09.jpg"
+    }
+]
